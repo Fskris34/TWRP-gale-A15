@@ -1,3 +1,5 @@
+**English** | [Bahasa Indonesia](README_ID.md)
+
 # TWRP-gale-A15
 > A TWRP project for redmi 13c android 15!
 
@@ -10,7 +12,7 @@
 
 We are still preparing time to create this project! So Just wait for the realese 😊.
 
-**• progrees**
+**• progress**
 
 - [ ] Recovery boots successfully
 - [ ] ADB connectivity working
