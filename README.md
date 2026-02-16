@@ -7,10 +7,10 @@
 ![Android](https://img.shields.io/badge/Android-15-green)
 ![Project](https://img.shields.io/badge/status-UNOFFICIAL-blue)
 
-## 🕒 Status and progress 0%
+## 🕒 Status and progress 3%
 **• status**
 
-We are still preparing time to create this project! So Just wait for the realese 😊.
+We've built the initial steps of creating a TWRP, so just wait another 2 days to start further progress😉.
 
 **• progress**
 
