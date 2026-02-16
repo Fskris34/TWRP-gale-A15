@@ -1,4 +1,5 @@
 [English](README.md) | **Bahasa Indonesia**
+
 # TWRP-gale-A15
 > Sebuah project TWRP untuk redmi 13c android 15!
 
@@ -6,10 +7,10 @@
 ![Android](https://img.shields.io/badge/Android-15-green)
 ![Project](https://img.shields.io/badge/status-TIDAKRESMI-blue)
 
-## 🕒 Status dan progress 0%
+## 🕒 Status dan progress 3%
 **• status**
 
-Kami sedang Mempersiapkan waktu untuk membuat project ini! Jadi hanya menunggu untuk perilisan nya😊.
+Kami telah membangun langkah awal dalam pembuatan TWRP, jadi tunggu saja 2 hari lagi untuk memulai progress lebih lanjut😉.
 
 **• progress**
 
