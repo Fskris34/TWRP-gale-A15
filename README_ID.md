@@ -1,7 +1,7 @@
 [English](README.md) | **Bahasa Indonesia**
 
 # TWRP-gale-A15
-> Sebuah project TWRP untuk redmi 13c android 15!
+> Sebuah project TWRP untuk Redmi 13c android 15!
 
 ![Device](https://img.shields.io/badge/device-Redmi_13C-orange)
 ![Android](https://img.shields.io/badge/Android-15-green)
@@ -10,7 +10,17 @@
 ## 🕒 Status dan progress 3%
 **• status**
 
-Kami telah membangun langkah awal dalam pembuatan TWRP, jadi tunggu saja 2 hari lagi untuk memulai progress lebih lanjut😉.
+Kami telah membangun langkah awal dalam pembuatan TWRP, jadi tunggu saja 1 hari lagi untuk memulai prepare dan progress lebih lanjut😉.
+
+**• prepare** 
+
+- [x] Menyiapkan bahan-bahan
+- [X] Proses sinkronisasi TWRP
+- [ ] Membuat device tree
+- [ ] Menyatukan itu semua
+- [ ] Proses testing
+- [ ] ~~Memperbaiki kesalahan~~ (kuharap tidak☺️)
+- [ ] Rilis publik
 
 **• progress**
 
@@ -46,11 +56,10 @@ Kami telah membangun langkah awal dalam pembuatan TWRP, jadi tunggu saja 2 hari 
    ```bash
    fastboot reboot recovery
 **💡CATATAN: Jika kamu mengalami bootloop, flash recovery stock image kamu kembali!**
-## Kredit
-   - Berdasarkan [TeamWin Recovery Project](https://github.com/TeamWin)
-   - Sumber asli dilisensikan di bawah GPL v3
-dan Team Win LLC ©2026
 
-    Program ini hanya proyek tidak resmi, semua aula yang terkait dengan TWRP masih dipegang oleh Team Win LLC, kami hanya mematuhi peraturan proyek terkait pengembangan TWRP
+## Credits
+Berdasarkan [TeamWin Recovery Project](https://github.com/TeamWin)
+<p align="center">
+Sumber asli dilisensikan di bawah GPL v3, dan Team Win LLC, © 2026.
 
-
+`This program is an unofficial initiative. All TWRP-related assets remain under the ownership of Team Win LLC. We strictly adhere to project guidelines concerning TWRP development.`
