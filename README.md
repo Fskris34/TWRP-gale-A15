@@ -7,10 +7,20 @@
 ![Android](https://img.shields.io/badge/Android-15-green)
 ![Project](https://img.shields.io/badge/status-UNOFFICIAL-blue)
 
-## 🕒 Status and progress 3%
+## 🕒 Status, prepare, and progress 6%
 **• status**
 
-We've built the initial steps of creating a TWRP, so just wait another 2 days to start further progress😉.
+We've built the initial steps of creating a TWRP, so just wait another 1 days to start further progress😉.
+
+**• prepare** 
+
+- [x] Preparing all materials
+- [X] TWRP sync process
+- [ ] Create a Device Tree
+- [ ] Combining it all 
+- [ ] Testing process
+- [ ] ~~Fix the error~~ (hopefully not☺️)
+- [ ] Public release
 
 **• progress**
 
@@ -46,11 +56,10 @@ We've built the initial steps of creating a TWRP, so just wait another 2 days to
    ```bash
    fastboot reboot recovery
 **💡NOTE: If you encounter bootloop, flash your stock recovery image back!**
+
 ## Credits
-   - Based on [TeamWin Recovery Project](https://github.com/TeamWin)
-   - Original source licensed under GPL v3
-and Team Win LLC ©2026
+Based on [TeamWin Recovery Project](https://github.com/TeamWin)
+<p align="center">
+Original source licensed under GPL v3, and Team Win LLC © 2026.
 
-    This program is just an unofficial project, all halls related to TWRP are still held by Team Win LLC, we only comply with project regulations related to the development of TWRP
-
-
+`This program is an unofficial initiative. All TWRP-related assets remain under the ownership of Team Win LLC. We strictly adhere to project guidelines concerning TWRP development.`
