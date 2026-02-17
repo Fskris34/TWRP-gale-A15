@@ -7,15 +7,15 @@
 ![Android](https://img.shields.io/badge/Android-15-green)
 ![Project](https://img.shields.io/badge/status-UNOFFICIAL-blue)
 
-## 🕒 Status, prepare, and progress 6%
+## 🕒 Status, prepare, and progress -%
 **• status**
 
-We've built the initial steps of creating a TWRP, so just wait another 1 days to start further prepare and progress😉.
+TWRP will be continued when we are ready due to a problem during the TWRP build!
 
 **• prepare** 
 
-- [x] Preparing all materials
-- [X] TWRP sync process
+- [ ] Preparing all materials
+- [ ] TWRP sync process
 - [ ] Create a Device Tree
 - [ ] Combining it all 
 - [ ] Testing process
