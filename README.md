@@ -1,7 +1,7 @@
 **English** | [Bahasa Indonesia](README_ID.md)
 
 # TWRP-gale-A15
-> A TWRP project for redmi 13c android 15!
+> A TWRP project for Redmi 13c android 15!
 
 ![Device](https://img.shields.io/badge/device-Redmi_13C-orange)
 ![Android](https://img.shields.io/badge/Android-15-green)
