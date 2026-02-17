@@ -7,15 +7,15 @@
 ![Android](https://img.shields.io/badge/Android-15-green)
 ![Project](https://img.shields.io/badge/status-TIDAKRESMI-blue)
 
-## 🕒 Status dan progress 3%
+## 🕒 Status dan progress -%
 **• status**
 
-Kami telah membangun langkah awal dalam pembuatan TWRP, jadi tunggu saja 1 hari lagi untuk memulai prepare dan progress lebih lanjut😉.
+TWRP akan dilanjutkan ketika kami siap karena masalah selama pembuatan TWRP!
 
 **• prepare** 
 
-- [x] Menyiapkan bahan-bahan
-- [X] Proses sinkronisasi TWRP
+- [ ] Menyiapkan bahan-bahan
+- [ ] Proses sinkronisasi TWRP
 - [ ] Membuat device tree
 - [ ] Menyatukan itu semua
 - [ ] Proses testing
