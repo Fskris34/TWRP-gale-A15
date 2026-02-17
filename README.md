@@ -10,7 +10,7 @@
 ## 🕒 Status, prepare, and progress 6%
 **• status**
 
-We've built the initial steps of creating a TWRP, so just wait another 1 days to start further progress😉.
+We've built the initial steps of creating a TWRP, so just wait another 1 days to start further prepare and progress😉.
 
 **• prepare** 
 
